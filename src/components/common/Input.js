@@ -25,7 +25,7 @@ const styles = {
       height: 40,
       width: 100,
       color: '#000',
-      paddindRight: 5,
+      paddingRight: 5,
       paddingLeft: 5,
       fontSize: 18,
       lineHeight: 23,
